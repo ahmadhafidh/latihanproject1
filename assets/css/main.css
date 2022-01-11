@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(179, 179, 179);
+}
+.is-blue {
+  background: rgb(19, 190, 254);
+  color: white;
+}
